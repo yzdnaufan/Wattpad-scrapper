@@ -3,7 +3,7 @@
 # How to use
 
 - clone this repo
-- make sure your ChromeDriver is version 103.0.5060.134
+- make sure your ChromeDriver is having same version as  your Chrome
 - run the notebook files
 
 ### Note : Please don't close opened browser when running the program. It is for fetching HTML files. If still not sure how it does, check the selenium_get_web.py for more information
